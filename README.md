@@ -77,7 +77,6 @@ Proyek ini berfokus pada pemahaman opini publik terhadap Danantara melalui anali
 6. **Analisis Sentimen dan Evaluasi Model**  
    Evaluasi dua model klasifikasi sentimen dilakukan melalui:
    - `PERBANDINGAN_LOGREG_TFIDF_VS_BERT.ipynb`
-   - `Perbandingan_LogReg_vs_BERT_Final.ipynb` (ringkasan lengkap)
 
 ## Notebooks
 
@@ -89,7 +88,6 @@ Proyek ini berfokus pada pemahaman opini publik terhadap Danantara melalui anali
 | `TFIDF_Analysis_Danantara.ipynb` | Analisis fitur kata menggunakan TF-IDF |
 | `POS_dan_NER.ipynb` | Analisis linguistik dengan POS Tagging dan NER |
 | `PERBANDINGAN_LOGREG_TFIDF_VS_BERT.ipynb` | Evaluasi dua model klasifikasi |
-| `Perbandingan_LogReg_vs_BERT_Final.ipynb` | Notebook utama perbandingan model |
 
 ## Dataset
 
