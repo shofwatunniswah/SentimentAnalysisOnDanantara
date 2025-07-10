@@ -26,14 +26,6 @@ Penelitian ini berfokus pada analisis sentimen masyarakat terhadap "Danantara" m
 ├── Perbandingan_Analisis_Sentimen_pada_Pemberitaan_Danantara_Menggunakan_Model_Logistic_Regression_dengan_Feature_Engineering_TF_IDF_dan_BERT.ipynb  # Notebook utama perbandingan model
 ├── README.md               # Pengantar proyek (file ini)
 
-## Daftar Isi
-
-- [Ikhtisar Proyek](#ikhtisar-proyek)
-- [Metode yang Digunakan](#metode-yang-digunakan)
-- [Alur Pengerjaan](#alur-pengerjaan)
-- [Notebooks](#notebooks)
-- [Data](#data)
-
 ```
 ---
 
