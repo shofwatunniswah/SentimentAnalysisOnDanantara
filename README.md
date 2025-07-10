@@ -15,26 +15,27 @@ Metode-metode tersebut digunakan untuk mengeksplorasi konten berita, mengidentif
 Penelitian ini juga membandingkan performa dua model klasifikasi sentimen, yaitu Logistic Regression dengan fitur TF-IDF dan model berbasis BERT.
 
 🔁 Alur Pengerjaan
-Pengumpulan link berita secara manual
+
+1. Pengumpulan link berita secara manual
 → Link_Scraping_Danantara.csv
 
-Scraping konten berita menggunakan newspaper3k
+2. Scraping konten berita menggunakan newspaper3k
 → Notebook: Scrap_Danantara_TERBARU.ipynb
 → Output: Scraping_Danantara.csv
 
-Preprocessing teks berita
+3. Preprocessing teks berita
 → Notebook: PREPROCESSING_DANANTARA.ipynb
 → Output: Danantara_Preprocessed.csv
 
-Augmentasi data
+4. Augmentasi data
 → Notebook: augmentasi part2.ipynb
 → Output: Danantara_Augmented_Preprocessed.csv
 
-Eksplorasi Teks dan Analisis Linguistik
+5. Eksplorasi Teks dan Analisis Linguistik
 
 TF-IDF Analysis → TFIDF_Analysis_Danantara.ipynb
 
 POS Tagging & Named Entity Recognition → POS_dan_NER.ipynb
 
-Analisis Sentimen dan Perbandingan Model
+6. Analisis Sentimen dan Perbandingan Model
 → Notebook: Perbandingan_Analisis_Sentimen_pada_Pemberitaan_Danantara_Menggunakan_Model_Logistic_Regression_dengan_Feature_Engineering_TF_IDF_dan_BERT.ipynb
